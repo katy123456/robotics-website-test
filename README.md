@@ -6,7 +6,7 @@
 ###### katy #6
 I was told to make this **bold** !
 
-                  I was told to *itlaic* this !
+I was told to *itlaic* this !
 
 [zoom](https://zoom.us/postattendee?id=7)
 
