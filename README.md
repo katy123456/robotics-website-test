@@ -4,7 +4,7 @@
 #### heading #4 
 ##### heading #5 
 ###### heading #6
-# **bold** 
+**bold** 
 # *itlaic*
 # [link](https://zoom.us/postattendee?id=7)
 # [picture of hydro](https://www.google.com/search?q=hydro+flask&rlz=1C5CHFA_enUS911US911&sxsrf=ALeKk03P6O4uMME1wDNZCP-_uDHmu46TQQ:1601513457170&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjAmt7FlpLsAhULvJ4KHUVUBZgQ_AUoAnoECBgQBA&biw=1680&bih=863#imgrc=dBk03Fk-udGhKM)
